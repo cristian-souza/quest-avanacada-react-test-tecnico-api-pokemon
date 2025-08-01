@@ -3,20 +3,20 @@
 Uma Single Page Application (SPA) para listagem e visualização de detalhes de Pokémons utilizando a PokéAPI.
 
 <div align="left">
-    <img height="300em" src="img/pokedex-branco.JPG"/>
+    <img height="300em" src="./src/images/pokedex-branco.JPG"/>
 </div>
 
 <br>
 
 <div align="left">
-    <img height="295em" src="img/pokedex-escuro.JPG"/>
+    <img height="295em" src="./src/images/pokedex-escuro.JPG"/>
 </div>
 
 <br>
 
 <div align="left">
         <video width="320" height="240" controls>
-        <source src="video/pokedex.mp4" type="video/mp4">
+        <source src="./src/video/pokedex.mp4" type="video/mp4">
 </video> 
 </div>
 
@@ -72,12 +72,12 @@ npm start
 A aplicação possui dois temas:
 - **Branco**: Fundo branco com texto escuro
   <div align="left">
-    <img height="190em" src="img/pokedex-branco.JPG"/>
+    <img height="190em" src="./src/images/pokedex-branco.JPG"/>
 </div>
 
 - **Escuro**: Fundo escuro com texto claro
   <div align="left">
-    <img height="185em" src="img/pokedex-escuro.JPG"/>
+    <img height="185em" src="./src/images/pokedex-escuro.JPG"/>
 </div>
 
 
