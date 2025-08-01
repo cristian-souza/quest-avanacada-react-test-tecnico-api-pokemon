@@ -3,21 +3,13 @@
 Uma Single Page Application (SPA) para listagem e visualização de detalhes de Pokémons utilizando a PokéAPI.
 
 <div align="left">
-    <img height="300em" src="./src/images/pokedex-branco.JPG"/>
+    <img width="960" height="540" alt="pokedex-branco" src="https://github.com/user-attachments/assets/86bec111-b065-4bd1-9713-3d0a2c534932" />
 </div>
 
 <br>
 
 <div align="left">
-    <img height="295em" src="./src/images/pokedex-escuro.JPG"/>
-</div>
-
-<br>
-
-<div align="left">
-        <video width="320" height="240" controls>
-        <source src="./src/video/pokedex.mp4" type="video/mp4">
-</video> 
+    <img width="960" height="540" alt="pokedex-escuro" src="https://github.com/user-attachments/assets/2f76a066-b225-4d2c-ab79-0bd5059c026b" />
 </div>
 
 ## 🚀 Funcionalidades
@@ -72,12 +64,12 @@ npm start
 A aplicação possui dois temas:
 - **Branco**: Fundo branco com texto escuro
   <div align="left">
-    <img height="190em" src="./src/images/pokedex-branco.JPG"/>
+   <img width="190em" height="998" alt="pokedex-branco" src="https://github.com/user-attachments/assets/01a05599-1d8a-40ce-a322-b2a1a0def92b" />
 </div>
 
 - **Escuro**: Fundo escuro com texto claro
   <div align="left">
-    <img height="185em" src="./src/images/pokedex-escuro.JPG"/>
+   <img height="190em" alt="pokedex-escuro" src="https://github.com/user-attachments/assets/7bac0918-946f-49f8-bc45-0fccf5f8688d" />
 </div>
 
 
@@ -92,4 +84,3 @@ Interface responsiva que se adapta a diferentes tamanhos de tela.
 Utiliza a [PokéAPI](https://pokeapi.co/) para buscar dados dos pokémons.
 
 ---
-
