@@ -3,7 +3,7 @@ import styled from "styled-components"
 import { Link } from "react-router-dom"
 import componentsApi from "../components/components-api"
 
-import Container from "../components/Layout/layout"
+import Container from "../components/layout/layout"
 import { FlexContainer, Card } from "../components/layout/card"
 import Filter from "../components/filter";
 import ButtonLoad from "../components/button-loading/button-load"
